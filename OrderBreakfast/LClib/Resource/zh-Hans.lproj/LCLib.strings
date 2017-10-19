@@ -1,0 +1,42 @@
+/* 
+  LCLib.strings
+  LCModularization
+
+  Created by J on 2017/2/16.
+  Copyright © 2017年 GZLC. All rights reserved.
+*/
+
+// 启动画面
+"LCLaunch.btn.pass" = "跳过";
+
+// 登录注册
+"LCLoginViewController.title" = "登录";
+"LCLoginViewController.placeholder.account" = "输入手机号";
+"LCLoginViewController.placeholder.verify" = "输入验证码";
+"LCLoginViewController.placeholder.password" = "请输入密码";
+"LCLoginViewController.btn.login" = "登 录";
+"LCLoginViewController.btn.register" = "立即注册";
+
+"LCRegisterViewController.title" = "注册";
+"LCRegisterViewController.placeholder.account" = "输入手机号";
+"LCRegisterViewController.placeholder.verify" = "输入验证码";
+"LCRegisterViewController.placeholder.password" = "请输入密码";
+"LCRegisterViewController.btn.register" = "立即注册";
+
+"LCRetrievalPasswordViewController.title" = "找回密码";
+"LCRetrievalPasswordViewController.placeholder.account" = "输入手机号";
+"LCRetrievalPasswordViewController.placeholder.verify" = "输入验证码";
+"LCRetrievalPasswordViewController.placeholder.password" = "设置新密码";
+"LCRetrievalPasswordViewController.btn.submit" = "确认修改";
+
+"LCBindAccountViewController.title" = "绑定账号";
+"LCBindAccountViewController.desc.main" = "为了保障你的帐号安全";
+"LCBindAccountViewController.placeholder.account" = "输入手机号";
+"LCBindAccountViewController.placeholder.verify" = "输入验证码";
+"LCBindAccountViewController.placeholder.password" = "请设置密码";
+"LCBindAccountViewController.btn.submit" = "立即绑定";
+
+"LCCompleteInfoViewController.title" = "完善资料";
+
+"LCLoginFormView.btn.forget" = "忘记密码";
+"LCLoginFormView.btn.verify" = "获取验证码";
